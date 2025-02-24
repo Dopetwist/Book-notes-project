@@ -6,7 +6,7 @@ It also involves quality features like sorting books by recency, rating and titl
 
 ## Installation
 
-On the node terminal, use the command `npm init` to install all dependencies.
+On the node terminal, use the command `npm i` to install all dependencies.
 
 ## Running the Server
 Use `nodemon index.js` to start the server.
